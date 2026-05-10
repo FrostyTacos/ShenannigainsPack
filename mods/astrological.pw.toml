@@ -1,0 +1,13 @@
+name = "Astrological (End Terrain & Biomes)"
+filename = "astrological-1.21.1-1.7.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CT7wmZEM/versions/FZp1CNPe/astrological-1.21.1-1.7.0.jar"
+hash-format = "sha512"
+hash = "4782978dd9169ff0ab80469035ec9eae7a21e4c55ffb17b27ec88a9fdb987d5ed5d5dc26ddc1153bbb0b66459b64e471f6efd86ead9f44f4c4818d4c5301c0dc"
+
+[update]
+[update.modrinth]
+mod-id = "CT7wmZEM"
+version = "FZp1CNPe"
