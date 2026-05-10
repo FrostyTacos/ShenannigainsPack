@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
@@ -68,6 +68,16 @@ metafile = true
 [[files]]
 file = "mods/configurable.pw.toml"
 hash = "0869e78231ca67e18ebdc14af839af47fb046f100f3622a06fc099fce33eee17"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "af4dc4828902eae1784568632a749fe9a442943f1570ac0ba3ea75e79934be41"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "42ffb6f5835250003da6ca3667ff751709ea295faee43b49c365b0f6c1e8f4d8"
 metafile = true
 
 [[files]]
@@ -226,6 +236,21 @@ hash = "d77c41bf5a8dd470d65e7946d507657a910b54d2e76f4b3ced4fe4addc2d52d4"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-bakery-farmcharm-compat.pw.toml"
+hash = "bcc419e665600b7ae3351478c159477c6a4b3d59b08e7da73499dbc929812385"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-brewery-farmcharm-compat.pw.toml"
+hash = "70ce15946e4233feb55c10b5958db355a3e209c592c19fa273176d894423f9cb"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-farm-charm.pw.toml"
+hash = "139243c0b47a2d89147289b8d9ef91178c1c2511f3060e00e3699d0e3adb226b"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-vinery.pw.toml"
 hash = "535e8e9c6bc184e9771cf4e35795c8f162d89abeb5b9aed9c2ea2988c710776f"
 metafile = true
@@ -308,6 +333,11 @@ metafile = true
 [[files]]
 file = "mods/saturated.pw.toml"
 hash = "46df90dca78c1c572f7e57caf6bfa98dfb614e440aeb5ad29316d4d68fd96e98"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
 metafile = true
 
 [[files]]
