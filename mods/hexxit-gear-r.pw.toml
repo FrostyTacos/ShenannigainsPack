@@ -1,0 +1,13 @@
+name = "Hexxit Gear R"
+filename = "hexxit_gear-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rrDBjSL2/versions/Nwl8el4i/hexxit_gear-1.1.0.jar"
+hash-format = "sha512"
+hash = "bd6d598e054df6b90e6b4bc04b6af636fd18d4ed4d30de3b2306f4cf4ca9deadd159529ff724d4d607ff9ffa46cae0ccee29165bafbcb7ecfda1b651abe3c4d9"
+
+[update]
+[update.modrinth]
+mod-id = "rrDBjSL2"
+version = "Nwl8el4i"
