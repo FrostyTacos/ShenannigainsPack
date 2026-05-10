@@ -1,0 +1,13 @@
+name = "Shenannigains"
+author = "FrostyTacos"
+version = "1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a122bf8029ab387ca43deeaa6096be4b77d52186b72d411bc66dbe51636fd14d"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.228"
