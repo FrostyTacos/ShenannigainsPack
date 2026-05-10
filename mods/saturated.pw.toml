@@ -1,0 +1,13 @@
+name = "Saturated"
+filename = "saturated-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eBiNxmRM/versions/prz4s70M/saturated-1.1.1.jar"
+hash-format = "sha512"
+hash = "0ecdb14b68504c95e9eddcf8116e23af0c4134bbd168566678bac2a8d9f744f4c50783275b8cc1f9e8344a312d0e632c5068eebb35b4371d66f3297cec2aa487"
+
+[update]
+[update.modrinth]
+mod-id = "eBiNxmRM"
+version = "prz4s70M"
