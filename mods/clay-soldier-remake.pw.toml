@@ -1,0 +1,13 @@
+name = "Clay Soldier Remake"
+filename = "csr-neoforge-1.21.1-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aff31865762a359bab4293fa4d6c50322b38848e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7396743
+project-id = 1346487
