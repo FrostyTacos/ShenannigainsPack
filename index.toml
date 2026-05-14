@@ -46,6 +46,11 @@ hash = "5a6b18920051df6bc379179bb7637bddbb677702116dd9c1747371771fc571e1"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "f54cf71372645810ce22b0ba68e706139565437150e4cfd22bde4c14606099c4"
+metafile = true
+
+[[files]]
 file = "mods/awesome-dungeon.pw.toml"
 hash = "603100ee4b146de04918a4dca348cea6270e9cf0ac681fc022b292cf10374fef"
 metafile = true
@@ -63,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "8f0d13cc7d1b993657aa32e4495b9d75cfdd2e7f93f9a10dec522866e18afc6f"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
 metafile = true
 
 [[files]]
@@ -108,6 +118,16 @@ metafile = true
 [[files]]
 file = "mods/corpse.pw.toml"
 hash = "8e671fbd3a5460a61073cced391ec08efc6b67d765e49015eea45a1f1db159a0"
+metafile = true
+
+[[files]]
+file = "mods/crafting-on-a-stick.pw.toml"
+hash = "e95f6e9384ea06e17022b7f03c9595d68e264f1af13134d27addab0bf10cf704"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-gyroscope-stabilizers.pw.toml"
+hash = "845db39ab8c05bcd2f047d7bd810ea0d27f027ebbaf7f8db872126e8bc89ee2d"
 metafile = true
 
 [[files]]
@@ -191,6 +211,11 @@ hash = "633da82d88437f80abcc0aed54eda0a6a7d89e1f3289d3fdc85a529d1ec0b0ee"
 metafile = true
 
 [[files]]
+file = "mods/easy-villagers.pw.toml"
+hash = "d629988991e4e0c461a5031b8c774c184ef409f5b57187211c3abe5b1a21fc3c"
+metafile = true
+
+[[files]]
 file = "mods/ends-delight.pw.toml"
 hash = "c31e8aea1f4ddc50d79c6dfa46dec8cbbf1a6108ff74db140baa0395ea4c5766"
 metafile = true
@@ -208,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/freecam.pw.toml"
 hash = "184c6768f11e0c33c22c104397ad559c5b9337c709d1d05c8e9c93891dcddaee"
+metafile = true
+
+[[files]]
+file = "mods/ftb-chunks-forge.pw.toml"
+hash = "100d56915243e9a577ec572cc118628e3bef2f1e7be015585335d307dbb5dc19"
 metafile = true
 
 [[files]]
@@ -363,6 +393,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "d891b5301e4fe59ad978edd97c1477c50f928c4a2cfb31d8cdcc7f4965323267"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
 
 [[files]]
